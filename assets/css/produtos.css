@@ -1,0 +1,90 @@
+body{
+    overflow-x: hidden;
+}
+
+.btn:hover{
+    color: #F7F0F5;
+    text-decoration: none;
+}
+
+.container{
+    margin-top: 85px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.btn-color{
+    font-weight: bolder;
+    background-color: #6C6360;
+}
+
+.vasco{
+    margin: 0px 25px 0px 25px;
+}
+
+.bg-color{
+    background-color: #6C6360;
+}
+
+.caroseul-prod{
+    max-width: 370px;
+    max-height: 350px;
+    width: auto!important;
+    height: auto!important;
+}
+
+.produto{
+    padding: 0px;
+    max-width: 370px;
+    margin: 20px;
+}
+
+.card-produto{
+    border-radius: 2% 2% 1% 1%;
+}
+
+.fundo-collapse{
+    background-color: #E5D7C7;
+}
+
+.col-sm-11{
+    margin: auto;
+}
+
+.card-index{
+    display: inline-block;
+    background-color: #FBFBFB;
+    border-radius: 2%;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.137);
+}
+
+.img-fluid{
+    border-radius: 1% 1% 0% 0%;
+    height: 350px;
+    width: auto;
+    min-width: 300px;
+}
+
+#foto-produto{
+    width: 370px;
+}
+
+.card-body{
+    margin: 0px;
+    padding: 0px 0px 0px 15px;
+}
+
+.item-index{
+    margin: auto;
+    text-align: center;
+    max-width: 1500px;
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+    background-color: #E5D7C7;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #6C6360;
+}

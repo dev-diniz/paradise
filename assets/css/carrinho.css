@@ -1,0 +1,16 @@
+body{
+    margin-top: 100px;
+}
+.container{
+    background-color: white;
+    max-width: 1500px;
+}
+.quant{
+    display: flex;
+    float: left;
+    align-items: center;
+}
+.produtos{
+    align-items: baseline;
+    justify-content: center;
+}

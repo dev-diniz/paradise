@@ -1,0 +1,31 @@
+.portfolio-details{
+    margin-top: 70px;
+    padding: 20px 5px 20px 5px;
+    background-color: white;
+    border-radius: 10px;
+}
+a, a:hover{
+    color: white;
+    text-decoration: none;
+}
+.btn:hover{
+    color: white;
+    text-decoration: none;
+}
+.btn-color{
+    margin-top: 20px;
+    font-weight: bolder;
+    background-color: #6C6360;
+}
+.preco{
+    margin-top: 23px;
+    text-align: right; 
+    display: inline-block;
+}
+.img-fluid{
+    border-radius: 1%;
+    max-height: 400px;
+    display: block;
+    margin: auto;
+    height: 380px;
+}

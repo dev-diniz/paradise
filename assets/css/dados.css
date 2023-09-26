@@ -1,0 +1,22 @@
+/* Cores */                   /* Significado*/
+:root{
+    --magnolia:#F7F0F5;     /*sensação de delicadeza e suavidade que transmite suavidade e tranquilidade*/
+    --Almond:#E5D7C7;       /*neutralidade que deseja transmitir equilibrio e simplicidade*/
+    --TaupeGray:#A09892;    /*Simboliza a profissionalidade*/
+    --GimGray: #6C6360;     /*musica relaxante com um toque de elegancia e refinamento*/
+    --Licorine:#231C1A;     /* seriedade e formalidade que busca uma seriedade*/
+}
+body{
+    margin-top: 75px;
+}
+.container{
+    background-color: transparent;
+    max-width: 100%;
+    width: 80%;
+    height: 100%;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button{ 
+    -webkit-appearance: none;
+    margin: 0;
+}
