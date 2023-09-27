@@ -57,7 +57,6 @@ INSERT INTO `tb_categoria` (`cd_categoria`, `nm_categoria`, `id_categoria`, `id_
 (2, 'Corda', NULL, 1, '2023-08-08 15:06:05'),
 (3, 'Guitarra', 2, 1, '2023-08-08 15:06:17'),
 (4, 'Guitarras elétricas', 3, 1, '2023-08-09 13:34:52'),
-(8, 'Elba Ramalho', NULL, 1, '2023-08-18 15:04:35'),
 (10, 'violãozinho', 2, 1, '2023-09-22 17:07:40');
 
 -- --------------------------------------------------------
@@ -186,7 +185,7 @@ CREATE TABLE `tb_produto` (
 --
 
 INSERT INTO `tb_produto` (`cd_produto`, `nm_produto`, `vl_produto`, `st_produto`, `nm_tag_pesquisa`, `ds_produto`, `dt_registro_produto`, `id_categoria`, `id_usuario`, `id_marca`) VALUES
-(23, 'Cavaquingo v5', '150.00', '1', 'vioão pequeno, cavaquinnho, violãozinho', 'Cavaquinho pequeno 50 cavalos', '2023-09-26 13:05:37', 10, 1, 1);
+(23, 'Cavaquinho v5', '150.00', '1', 'vioão pequeno, cavaquinnho, violãozinho', 'Cavaquinho pequeno 50 cavalos', '2023-09-26 13:05:37', 10, 1, 1);
 
 -- --------------------------------------------------------
 
@@ -246,7 +245,7 @@ CREATE TABLE `tb_usuario` (
 --
 
 INSERT INTO `tb_usuario` (`cd_usuario`, `nm_usuario`, `nm_sobrenome_usuario`, `dt_nascimento`, `nm_email`, `cd_cpf_cnpj`, `st_usuario`, `cd_senha`, `id_tipo_usuario`, `dt_registro_usuario`) VALUES
-(1, 'Gustavo', 'O', '2003-04-21', 'Diniz45@gmail.com', '685.465.132-13', '1', '81dc9bdb52d04dc20036dbd8313ed055', 1, '2023-08-08 15:04:16');
+(1, 'Gustavo', 'Diniz', '2003-04-21', 'Diniz25@gmail.com', '685.465.132-13', '1', '81dc9bdb52d04dc20036dbd8313ed055', 1, '2023-08-08 15:04:16');
 -- senha: 1234
 
 -- Índices para tabelas despejadas
