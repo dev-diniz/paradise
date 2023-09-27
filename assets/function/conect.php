@@ -1,3 +1,2 @@
 <?php 
-	$con = new mysqli("localhost","soft_filhote2","@Filhote234","soft_paradise");
-?>
+	$con = new mysqli("localhost","root","","db_paradise");
