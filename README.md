@@ -21,7 +21,7 @@ git clone https://github.com/dev-diniz/paradise.git
 
 cd paradise
 
-3- Importe o banco de dados MySQL. Você pode usar a linha de comando ou uma ferramenta de gerenciamento de banco de dados como o phpMyAdmin (Para o projeto foi usado XAMPP).
+3- Importe o banco de dados MySQL. Você pode usar a linha de comando ou uma ferramenta de gerenciamento de banco de dados como o phpMyAdmin (Para o projeto foi usado XAMPP como servidor web).
 
 mysql -u root -p soft_paradise < soft_paradise.sql
 
@@ -35,5 +35,16 @@ $db_password = "";
 $db_name = "soft_paradise";
 ?>
 
+5- Inicie seu servidor web.
+
+6- Abra o projeto em seu navegador, acessando http://localhost/paradise.
+
+### Uso
+Descreva como o projeto deve ser usado.
+Inclua informações sobre como navegar no site, como usar as funcionalidades, etc.
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias, correções de bugs, ou novos recursos.
 
 
+### Contato
+Se você tiver alguma dúvida ou precisar entrar em contato, você pode me encontrar em dinizgustavo25@gmail.com ou através do meu perfil no GitHub: https://github.com/dev-diniz.
