@@ -40,10 +40,10 @@ $db_name = "soft_paradise";
 6- Abra o projeto em seu navegador, acessando http://localhost/paradise.
 
 ### Uso
-Descreva como o projeto deve ser usado.
-Inclua informações sobre como navegar no site, como usar as funcionalidades, etc.
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias, correções de bugs, ou novos recursos.
+O projeto ainda está em fase de desenvolvimento podendo conter alguns erros e bugs.
+para a liberação de todas as funcionalidades é necessario fazer login com as seguintes credenciais:
+email: <diniz25@gmail.com> / senha: <1234>.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções de bugs, ou novos recursos.
 
 
 ### Contato
