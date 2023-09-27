@@ -1,7 +1,6 @@
 <div class="modal fade" id="cadastrar_user" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog">
-        <div class="modal-content" style="	background-color: transparent;
-    										border: 0px;">
+        <div class="modal-content">
 			<div class="container">
 				<div class="box form-box">
 
@@ -10,7 +9,7 @@
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 						<span aria-hidden="true">&times;</span>
 					</header>
-					<form action="" method="post">
+					<form method="post">
 
 						<div class="field input">
 							<label for="username">Nome</label>

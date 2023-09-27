@@ -4,9 +4,9 @@
 ?>
 
 <head>
-    <link rel="stylesheet" href="assets/css/footer.css">
-    <link rel="stylesheet" href="assets/css/dropdown.css">
-    <link rel="stylesheet" href="assets/css/produtos.css">
+    <link rel="stylesheet" href="assets/css/footer.css" preload>
+    <link rel="stylesheet" href="assets/css/dropdown.css" preload>
+    <link rel="stylesheet" href="assets/css/produtos.css" preload>
     <style>
         body{
             margin-top: 64px;

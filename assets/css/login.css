@@ -118,3 +118,13 @@ body{
 #cadastrar_user{
     backdrop-filter: blur(5px);
 }
+
+.modal-content{
+    background-color: white;
+    border: 0px;
+}
+#penis{
+    background-color: white;
+    border: solid 1px;
+    text-decoration: none;
+}
